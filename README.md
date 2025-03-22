@@ -9,3 +9,10 @@ Marketing mix is a widely utilized concept in the execution of marketing strateg
 As a data scientist, the objective is to conduct **Exploratory Data Analysis (EDA)** and **Hypothesis Testing** to enhance comprehension of factors influencing customer acquisition. The project aims to analyze customer demographics, spending habits, and campaign responses to derive actionable insights.
 
 ---
+
+## Steps to Perform
+
+### 1. Data Import and Initial Exploration
+
+- Import the dataset and examine key variables like `Dt_Customer` (customer enrollment date) and `Income` to ensure accurate importation.
+- Check the data types, missing values, and descriptive statistics.
